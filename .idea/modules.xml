@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PPPMicroservices.iml" filepath="$PROJECT_DIR$/.idea/PPPMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section4/accounts/accounts.iml" filepath="$PROJECT_DIR$/section4/accounts/accounts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section4/cards/cards.iml" filepath="$PROJECT_DIR$/section4/cards/cards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section2/helloworldservice/helloworldservice.iml" filepath="$PROJECT_DIR$/section2/helloworldservice/helloworldservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/section4/loans/loans.iml" filepath="$PROJECT_DIR$/section4/loans/loans.iml" />
+    </modules>
+  </component>
+</project>
